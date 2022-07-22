@@ -7,7 +7,7 @@
 
 🏅 **About myself**<br>
 
-✔️ I am **Jitendra Kumar Rana**, currently i am pursuing my bachelors from VBU,Hazaribagh in Computer and Science. <br>
+✔️ I am **Jitendra Kumar Rana**, currently pursuing my bachelors from VBU,Hazaribagh in Computer and Science. <br>
 
 ✔️ I am interested in development and i also enjoy doing competitive programming. <br>
 
